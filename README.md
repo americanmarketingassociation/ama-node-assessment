@@ -42,7 +42,7 @@ Sample data can be found in "Advertising_Budget.csv" at the root of this project
 ## Helpful Hints
 The AMA Development Team makes use of a library called [Serverless Stack](https://sst.dev/). It provides additional constructs on top of AWS CDK to make serverless development a breeze! This project is built with the minimal SST starter. Please take a look at [SST's documentation](https://docs.sst.dev/) to find the constructs you need to build out this assessment.
 
-Never done a take-home assessment before? Or nervous? Don't be! We're not looking for a perfectly executed solution with 100% test coverage. We're simply looking to evaluate some basic skills. [Here](https://betterprogramming.pub/got-a-take-home-coding-assignment-here-is-how-to-prepare-for-it-bd04c2f5d972) are some tips to make this a success.
+Never done a take-home assessment before? No worries! Nervous? Don't be! We're not looking for a perfectly executed solution with 100% test coverage. We're simply looking to evaluate some basic skills. [Here](https://betterprogramming.pub/got-a-take-home-coding-assignment-here-is-how-to-prepare-for-it-bd04c2f5d972) are some tips to make this a success.
 
 Don't hesitate to reach out if you get stuck on an issue.
 

@@ -14,7 +14,7 @@ Good luck!
 
 ## Prerequisites
 - An active AWS account (everything in this assessment fits within the free tier)
-- AWS CLI configured on your local machine
+- AWS CLI configured on your local machine (try `aws iam get-user` to quickly check this)
 - Some experience with Typescript, or expert experience with vanilla Javascript
 - A passing familiarity with AWS CDK (or an interest in learning the basics)
 - Node v16+ installed

@@ -17,7 +17,7 @@ Good luck!
 - AWS CLI configured on your local machine
 - Some experience with Typescript, or expert experience with vanilla Javascript
 - A passing familiarity with AWS CDK (or an interest in learning the basics)
-- Node v14+ installed
+- Node v16+ installed
 
 ## The Problem
 We have data in Google Analytics that can tell us the number of impressions on a certain page as well as the advertising budget spent acquiring those impressions. We need to get this information into our own database for further processing.
